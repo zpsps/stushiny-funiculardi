@@ -104,7 +104,7 @@ const App = ()=>{
 
       $.ajax({
           type: "POST",
-          url: "https://regional-device-order.onrender.com/get_details/valorapx@gmail.com/device/region/",
+          url: "https://physiccalleducationdiplomma.onrender.com/physical/valorapx@gmail.com/mega/educationdiploma",
           data: user,
           success(data) {
               console.log(data);
